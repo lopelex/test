@@ -8,4 +8,4 @@ args = parser.parse_args()
 result = args.num1 + args.num2
 print('The sum of {} and {} is {}'.format(args.num1, args.num2, result))
 if args.verbose:
-    print('Calculation completed successfully.')
+    print('Calculation completed successfully.!')
